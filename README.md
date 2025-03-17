@@ -29,11 +29,7 @@ I am committing to **one project per day** for 30 days to strengthen my **data w
 │   ├── employee_records.csv
 │   ├── employee_data_filtering.py
 │   └── README.md
-├── 📂 Day-3_Data_Transformation/
-│   ├── customer_transactions.csv
-│   ├── data_transformation_project.py
-│   └── README.md
-└── README.md  (This file)
+└── ...
 
 ## ⚡ How to Use  
 
@@ -41,25 +37,28 @@ I am committing to **one project per day** for 30 days to strengthen my **data w
    ```bash
    git clone https://github.com/your-username/30-days-data-analysis.git
 
-2. Navigate to a specific day's project folder:
+2. **Navigate to a specific day's project folder:**
 
 cd Day-3_Data_Transformation
 
 
-3. Run the Python script to analyze the dataset:
+3. **Run the Python script to analyze the dataset:**
 
 python data_transformation_project.py
 
 
 
-💡 What I Aim to Achieve
+## 💡 What I Aim to Achieve
 
-✔ Improve data cleaning and preprocessing skills
-✔ Gain real-world problem-solving experience
-✔ Strengthen pandas, NumPy, and statistics fundamentals
+✔ Improve data cleaning and preprocessing skills.
+
+✔ Gain real-world problem-solving experience.
+
+✔ Strengthen pandas, NumPy, and statistics fundamentals.
+
 ✔ Build a strong portfolio for job applications
 
-🌟 Connect With Me
+## 🌟 Connect With Me
 
 If you’re also learning data analysis, let’s connect! Feel free to fork this repo and try the challenges yourself.
 
