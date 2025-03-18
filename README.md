@@ -21,8 +21,8 @@ Through this 30-day challenge, I aim to:
 ### **Week 1: Core Data Handling & Exploration**
 ✅ **Day 1:** [Data Cleaning & Preprocessing](./Day_1_Data_Cleaning/)  
 ✅ **Day 2:** [Data Filtering & Selection](./Day_2_Data_Filtering/)  
-🚀 **Day 3:** [Data Transformation](./Day_3:_Data_Transformation/) *(In Progress)*  
-🔜 **Day 4:** Data Aggregation  
+✅ **Day 3:** [Data Transformation](./Day_3:_Data_Transformation/)  
+🚀 **Day 4:** Data Aggregation  *(In Progress)*
 🔜 **Day 5:** Merging & Joining Data  
 🔜 **Day 6:** Data Reshaping  
 🔜 **Day 7:** Weekly Project Challenge  
