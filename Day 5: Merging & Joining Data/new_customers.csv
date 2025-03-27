@@ -1,0 +1,101 @@
+Customer_ID,Name,Email,Join_Date,Location,Membership_Level
+7001,Liam,user7001@example.com,2022-07-15,Houston,Gold
+7002,David,user7002@example.com,2024-02-18,Los Angeles,Silver
+7003,Mason,user7003@example.com,2024-03-10,New York,Standard
+7004,Emma,user7004@example.com,2024-03-11,Miami,Silver
+7005,Liam,user7005@example.com,2022-09-18,Chicago,Silver
+7006,Aiden,user7006@example.com,2025-01-25,Houston,Gold
+7007,Charlie,user7007@example.com,2023-10-28,Chicago,Standard
+7008,Liam,user7008@example.com,2023-07-16,Chicago,Standard
+7009,Mason,user7009@example.com,2024-08-19,New York,Silver
+7010,Emma,user7010@example.com,2023-12-29,Chicago,Gold
+7011,David,user7011@example.com,2023-09-04,Miami,Standard
+7012,Mason,user7012@example.com,2024-03-31,Chicago,Standard
+7013,Mason,user7013@example.com,2024-01-05,New York,Gold
+7014,Charlie,user7014@example.com,2024-01-24,Miami,Standard
+7015,Sophia,user7015@example.com,2023-11-14,Los Angeles,Silver
+7016,Emma,user7016@example.com,2024-06-27,Chicago,Gold
+7017,Bob,user7017@example.com,2023-05-16,New York,Silver
+7018,Mason,user7018@example.com,2024-12-01,Los Angeles,Silver
+7019,Sophia,user7019@example.com,2024-11-16,Los Angeles,Standard
+7020,Bob,user7020@example.com,2024-10-18,Houston,Silver
+7021,Emma,user7021@example.com,2024-08-19,Miami,Silver
+7022,Alice,user7022@example.com,2022-11-06,Chicago,Standard
+7023,Aiden,user7023@example.com,2023-03-14,New York,Standard
+7024,Sophia,user7024@example.com,2022-12-22,Houston,Platinum
+7025,Olivia,user7025@example.com,2024-04-22,Miami,Silver
+7026,Alice,user7026@example.com,2023-07-04,Houston,Standard
+7027,Aiden,user7027@example.com,2025-01-24,Miami,Platinum
+7028,Charlie,user7028@example.com,2024-02-08,Miami,Platinum
+7029,Liam,user7029@example.com,2023-03-08,Chicago,Silver
+7030,David,user7030@example.com,2024-04-17,Miami,Gold
+7031,Olivia,user7031@example.com,2023-03-21,Houston,Standard
+7032,Charlie,user7032@example.com,2023-02-25,Miami,Standard
+7033,Emma,user7033@example.com,2024-05-19,Chicago,Silver
+7034,Charlie,user7034@example.com,2023-01-02,Chicago,Gold
+7035,Liam,user7035@example.com,2024-10-09,Houston,Gold
+7036,Emma,user7036@example.com,2023-09-19,Los Angeles,Standard
+7037,Olivia,user7037@example.com,2024-10-30,Los Angeles,Gold
+7038,Liam,user7038@example.com,2024-09-05,Miami,Gold
+7039,Bob,user7039@example.com,2022-10-01,New York,Gold
+7040,David,user7040@example.com,2024-11-13,Miami,Silver
+7041,Olivia,user7041@example.com,2024-05-24,Houston,Silver
+7042,Bob,user7042@example.com,2022-12-26,Houston,Silver
+7043,Aiden,user7043@example.com,2022-09-05,Houston,Standard
+7044,Olivia,user7044@example.com,2023-11-28,Houston,Gold
+7045,Aiden,user7045@example.com,2023-04-11,Houston,Platinum
+7046,Emma,user7046@example.com,2023-09-25,Chicago,Standard
+7047,Bob,user7047@example.com,2024-11-07,Los Angeles,Standard
+7048,David,user7048@example.com,2024-05-01,Houston,Standard
+7049,Liam,user7049@example.com,2022-12-01,New York,Standard
+7050,Mason,user7050@example.com,2023-06-30,New York,Platinum
+7051,Charlie,user7051@example.com,2024-02-15,New York,Standard
+7052,Alice,user7052@example.com,2022-09-02,New York,Standard
+7053,David,user7053@example.com,2022-08-09,Chicago,Standard
+7054,Bob,user7054@example.com,2024-01-27,New York,Standard
+7055,Mason,user7055@example.com,2024-12-16,Houston,Standard
+7056,David,user7056@example.com,2024-05-18,Miami,Silver
+7057,Bob,user7057@example.com,2023-11-01,New York,Silver
+7058,Sophia,user7058@example.com,2023-07-25,Chicago,Standard
+7059,Sophia,user7059@example.com,2022-12-25,Chicago,Silver
+7060,Aiden,user7060@example.com,2024-05-13,New York,Silver
+7061,David,user7061@example.com,2022-10-20,Miami,Silver
+7062,Sophia,user7062@example.com,2024-06-30,New York,Standard
+7063,Bob,user7063@example.com,2024-06-27,Chicago,Silver
+7064,Aiden,user7064@example.com,2023-09-02,Los Angeles,Platinum
+7065,Bob,user7065@example.com,2022-07-11,Houston,Standard
+7066,Aiden,user7066@example.com,2022-08-14,Chicago,Gold
+7067,David,user7067@example.com,2024-03-15,New York,Standard
+7068,Mason,user7068@example.com,2023-03-16,Houston,Standard
+7069,Liam,user7069@example.com,2024-09-15,New York,Silver
+7070,Olivia,user7070@example.com,2022-10-15,New York,Silver
+7071,Mason,user7071@example.com,2024-12-02,Los Angeles,Gold
+7072,Emma,user7072@example.com,2023-12-09,Houston,Standard
+7073,Bob,user7073@example.com,2025-02-13,Houston,Standard
+7074,Emma,user7074@example.com,2023-02-24,Los Angeles,Silver
+7075,Mason,user7075@example.com,2023-05-07,Chicago,Silver
+7076,Aiden,user7076@example.com,2024-11-27,New York,Standard
+7077,Olivia,user7077@example.com,2023-07-30,Miami,Platinum
+7078,Olivia,user7078@example.com,2023-03-06,New York,Standard
+7079,Alice,user7079@example.com,2023-12-28,New York,Standard
+7080,Olivia,user7080@example.com,2022-09-15,Chicago,Gold
+7081,Liam,user7081@example.com,2023-12-26,New York,Silver
+7082,Olivia,user7082@example.com,2022-08-04,Los Angeles,Platinum
+7083,Mason,user7083@example.com,2025-02-07,Los Angeles,Standard
+7084,Alice,user7084@example.com,2023-09-19,Houston,Silver
+7085,Mason,user7085@example.com,2023-04-10,Miami,Silver
+7086,Mason,user7086@example.com,2024-05-22,New York,Platinum
+7087,Charlie,user7087@example.com,2025-01-11,New York,Standard
+7088,Alice,user7088@example.com,2024-01-31,Chicago,Standard
+7089,Mason,user7089@example.com,2024-07-29,Los Angeles,Standard
+7090,Charlie,user7090@example.com,2025-02-15,Miami,Standard
+7091,Charlie,user7091@example.com,2024-10-23,Houston,Standard
+7092,Alice,user7092@example.com,2024-08-04,Los Angeles,Standard
+7093,Emma,user7093@example.com,2023-08-16,Houston,Standard
+7094,Aiden,user7094@example.com,2024-12-25,Chicago,Gold
+7095,Liam,user7095@example.com,2023-09-18,Chicago,Gold
+7096,Aiden,user7096@example.com,2024-03-03,New York,Standard
+7097,Olivia,user7097@example.com,2023-10-13,Miami,Standard
+7098,Liam,user7098@example.com,2023-03-03,Houston,Silver
+7099,Olivia,user7099@example.com,2024-05-18,Los Angeles,Standard
+7100,Mason,user7100@example.com,2023-05-25,Chicago,Standard
